@@ -22,13 +22,11 @@
         <module>de.bsvrz.sys.funclib.application</module>
         <module>de.bsvrz.sys.funclib.asyncReceiver</module>
         <module>de.bsvrz.sys.funclib.commandLineArgs</module>
-        <module>de.bsvrz.sys.funclib.communicationStreams</module>
         <module>de.bsvrz.sys.funclib.concurrent</module>
         <module>de.bsvrz.sys.funclib.configObjectAcquisition</module>
         <module>de.bsvrz.sys.funclib.consoleProcessFrame</module>
         <module>de.bsvrz.sys.funclib.crypt</module>
         <module>de.bsvrz.sys.funclib.dataIdentificationSettings</module>
-        <module>de.bsvrz.sys.funclib.dataSerializer</module>
         <module>de.bsvrz.sys.funclib.debug</module>
         <module>de.bsvrz.sys.funclib.filelock</module>
         <module>de.bsvrz.sys.funclib.hexdump</module>
